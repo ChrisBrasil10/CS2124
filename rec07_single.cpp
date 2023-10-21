@@ -2,8 +2,6 @@
   Chris Brasil
   rec07.cpp
   October 20, 2023
-  Starter Code for required functionality
-  Yes, of course, you may add other methods.
   And no, this won't compile. You have to implement the methods and
   fix the cyclic association.
  */
